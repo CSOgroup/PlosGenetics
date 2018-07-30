@@ -17,7 +17,7 @@ annotation_filename="tcga.pancanAtlas_sample_type_annotation.txt"
 
 #2018 seg file
 path_to_2018_seg_file="WRITE THE PATH HERE"
-seg_filename_2018="pan_can_atlas_mc3_caller_2p_data_cna_hg19.seg"
+seg_filename_2018="combined_seg.seg"
 
 # PhyloWGS result
 path_to_phylowgs_results="WRITE THE PATH HERE"
